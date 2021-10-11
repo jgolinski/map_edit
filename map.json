@@ -41,7 +41,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom"
+                 "value":"BIGMeetingRoom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -62,9 +62,9 @@
                  "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsiRoom2",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom2"
+                 "value":"MediumMeetingRoom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,9 +85,9 @@
                  "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsiRoom3",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom3"
+                 "value":"SMALLMeetingRoom3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,9 +108,9 @@
                  "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsiRoom4",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom4"
+                 "value":"TALKMeetingRoom4"
                 }],
          "type":"tilelayer",
          "visible":true,
