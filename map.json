@@ -64,7 +64,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom2"
+                 "value":"MeetingRoom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,9 +85,9 @@
                  "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsyRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom3"
+                 "value":"MeetingRoom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,9 +108,9 @@
                  "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsyRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom4"
+                 "value":"MeetingRoom"
                 }],
          "type":"tilelayer",
          "visible":true,
