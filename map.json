@@ -62,7 +62,7 @@
                  "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsiRoom",
+                 "name":"jitsiRoomGame",
                  "type":"string",
                  "value":"MediumMeetingRoom"
                 }],
@@ -85,7 +85,7 @@
                  "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsiRoom",
+                 "name":"jitsiRoom SMALL TALK",
                  "type":"string",
                  "value":"SMALLMeetingRoom3"
                 }],
@@ -108,7 +108,7 @@
                  "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsiRoom",
+                 "name":"jitsiRoom TALKING",
                  "type":"string",
                  "value":"TALKMeetingRoom4"
                 }],
