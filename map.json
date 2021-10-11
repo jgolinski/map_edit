@@ -36,7 +36,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{\n  \"StartWithAudioMuted\": true\n}"
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -59,10 +59,10 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{\n  \"StartWithAudioMuted\": true\n}"
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsiRoom2",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"MeetingRoom2"
                 }],
@@ -82,10 +82,10 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{\n  \"StartWithAudioMuted\": true\n}"
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsyRoom3",
+                 "name":"jitsyRoom",
                  "type":"string",
                  "value":"MeetingRoom3"
                 }],
@@ -105,10 +105,10 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{\n  \"StartWithAudioMuted\": true\n}"
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
                 }, 
                 {
-                 "name":"jitsyRoom4",
+                 "name":"jitsyRoom",
                  "type":"string",
                  "value":"MeetingRoom4"
                 }],
